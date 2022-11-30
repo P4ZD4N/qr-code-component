@@ -1,13 +1,17 @@
-* {
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
 body {
   display: flex;
   align-items: center;
-  flex-direction: column;
-  background-color: #c7deee;
   justify-content: center;
+  background-color: #c7deee;
   min-height: 100vh;
 }
 
@@ -16,9 +20,9 @@ body .container {
   align-items: center;
   flex-direction: column;
   background-color: white;
-  border-radius: 1em;
-  padding: 1em;
-  width: 17.5rem;
+  border-radius: 1rem;
+  padding: 1rem;
+  max-width: 19.5rem;
 }
 
 body .container__qr-code {
@@ -28,15 +32,15 @@ body .container__qr-code {
 
 body .container__title {
   text-align: center;
-  font-weight: 900;
+  font-weight: bold;
   margin-top: 1.25rem;
   font-size: 1.3rem;
 }
 
 body .container__subtitle {
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 30px;
+  margin-top: 1.25rem;
+  margin-bottom: 1.875rem;
   font-size: 1rem;
   color: gray;
 }
