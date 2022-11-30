@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/P4ZD4N/qr-code-component/tree/master)
-- Live Site URL: [Vercel](https://qr-code-p4zd4n.vercel.app/)
+- Solution URL: [GitHub](https://github.com/P4ZD4N/qr-code-component)
+- Live Site URL: [Vercel](https://wiktorcqrcode.vercel.app/)
 
 ## My process
 
@@ -42,3 +42,4 @@ Doing this challange I:
 
 - GitHub - [@P4ZD4N](https://github.com/P4ZD4N)
 - Frontend Mentor - [@P4ZD4N](https://www.frontendmentor.io/profile/P4ZD4N)
+- LinkedIn - [@Wiktor Chudy](https://www.linkedin.com/in/wiktor-chudy/)
